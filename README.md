@@ -1,7 +1,7 @@
 things
 ======
 
-I am 3D printing and design enthusiast. I sometimes design objects for fun and print them at home on my Ultimaker. 
+I am a 3D printing and design enthusiast. I sometimes design objects for fun and print them at home on my Ultimaker. 
 
 I share my designs here as STL files. 
 
